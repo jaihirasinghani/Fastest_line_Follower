@@ -1,5 +1,5 @@
 # Fastest_line_Follower
-# Fastest Line Follower with ESP32-38pin, TB6612FNG Motor Driver, Buck Converter, QTR Sensors, and N20 Motors
+# Fastest Line Follower using ESP32-38pin, TB6612FNG Motor Driver, Buck Converter, QTR Sensors, and N20 Motors
 
 This repository provides the complete code, hardware setup, and design files for building a high-speed line-following robot using the ESP32 (38-pin variant) as the central controller, the TB6612FNG motor driver for driving the motors, a buck converter for efficient power management, QTR sensors for precise line detection, and N20 DC motors (3000 RPM) for fast and accurate movement. The robot follows lines at high speeds using PID control with real-time tunable parameters via Bluetooth, ensuring optimal performance.
 
